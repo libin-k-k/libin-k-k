@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" role="img" aria-label="Libin K K">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#161B22;#0D1117" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF2D20">
+        <animate attributeName="stop-color" values="#FF2D20;#F85149;#FF2D20" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2D20"/>
+      <stop offset="50%" stop-color="#F0883E"/>
+      <stop offset="100%" stop-color="#FF2D20"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" fill="url(#bg)"/>
+  <text x="400" y="88" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700">Libin K K</text>
+  <path fill="url(#wave)" d="M0 132 C 66 152, 133 112, 200 132 C 266 152, 333 112, 400 132 C 466 152, 533 112, 600 132 C 666 152, 733 112, 800 132 L 800 180 L 0 180 Z">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 132 C 66 152, 133 112, 200 132 C 266 152, 333 112, 400 132 C 466 152, 533 112, 600 132 C 666 152, 733 112, 800 132 L 800 180 L 0 180 Z;M0 132 C 66 112, 133 152, 200 132 C 266 112, 333 152, 400 132 C 466 112, 533 152, 600 132 C 666 112, 733 152, 800 132 L 800 180 L 0 180 Z;M0 132 C 66 152, 133 112, 200 132 C 266 152, 333 112, 400 132 C 466 152, 533 112, 600 132 C 666 152, 733 112, 800 132 L 800 180 L 0 180 Z"/>
+  </path>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech stack">
+  <path d="M4 8.5 12 4l8 4.5-8 4.5L4 8.5Z" stroke="#FF2D20" stroke-width="1.75" stroke-linejoin="round"/>
+  <path d="M4 12.5 12 17l8-4.5" stroke="#FF2D20" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4 16.5 12 21l8-4.5" stroke="#FF2D20" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

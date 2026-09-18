@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 48" role="img" aria-label="Role animation">
+  <text x="240" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FF2D20">
+    Backend Software Engineer
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;1;1;0;0;0;0;0;0;0;0;0"/>
+  </text>
+  <text x="240" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FF2D20">
+    Laravel and PHP specialist
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;1;1;0;0;0;0;0;0"/>
+  </text>
+  <text x="240" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FF2D20">
+    Open source package author
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;0;0;0;1;1;0;0;0"/>
+  </text>
+  <text x="240" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FF2D20">
+    Building scalable systems
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;1;1;0"/>
+  </text>
+</svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Analytics">
+  <path d="M4 19V5" stroke="#FF2D20" stroke-width="1.75" stroke-linecap="round"/>
+  <path d="M4 19h16" stroke="#FF2D20" stroke-width="1.75" stroke-linecap="round"/>
+  <rect x="7" y="12" width="3" height="7" rx="0.6" fill="#FF2D20"/>
+  <rect x="12" y="8" width="3" height="11" rx="0.6" fill="#FF2D20" opacity="0.75"/>
+  <rect x="17" y="10" width="3" height="9" rx="0.6" fill="#FF2D20" opacity="0.5"/>
+</svg>

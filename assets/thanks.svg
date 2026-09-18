@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 36" role="img" aria-label="Thanks for visiting">
+  <text x="240" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8B949E">
+    Thanks for stopping by.
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;1;1;0;0;0"/>
+  </text>
+  <text x="240" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8B949E">
+    Let us build something solid.
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0;0;0;0;1;1;0"/>
+  </text>
+</svg>

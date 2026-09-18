@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="36" viewBox="0 0 200 36" role="img" aria-label="Kanyakumari, India">
+  <rect width="200" height="36" rx="6" fill="#238636"/>
+  <g transform="translate(8,6) scale(1)">
+  <path d="M12 21s7-5.4 7-11a7 7 0 1 0-14 0c0 5.6 7 11 7 11Z" stroke="#FFFFFF" stroke-width="1.75"/>
+  <circle cx="12" cy="10" r="2.3" stroke="#FFFFFF" stroke-width="1.75"/>
+</g>
+  <text x="40" y="23" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="650" fill="#FFFFFF">Kanyakumari, India</text>
+</svg>

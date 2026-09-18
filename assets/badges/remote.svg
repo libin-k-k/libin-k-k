@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36" role="img" aria-label="Open to remote roles">
+  <rect width="210" height="36" rx="6" fill="#1F6FEB"/>
+  <g transform="translate(8,6) scale(1)">
+  <circle cx="12" cy="12" r="8.25" stroke="#FFFFFF" stroke-width="1.75"/>
+  <path d="M3.8 12h16.4M12 3.8c2.4 2.6 3.6 5.4 3.6 8.2S14.4 17.6 12 20.2C9.6 17.6 8.4 14.8 8.4 12S9.6 6.4 12 3.8Z" stroke="#FFFFFF" stroke-width="1.75"/>
+</g>
+  <text x="40" y="23" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="650" fill="#FFFFFF">Open to remote roles</text>
+</svg>
